@@ -1094,3 +1094,7 @@ footer p {
     font-family: "rubik",sans-serif;
 
 }
+
+footer p {
+    text-decoration: none;
+}
